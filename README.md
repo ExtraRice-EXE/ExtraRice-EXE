@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello, folks!
+
+My name is Junnel and I am currently studying Web Design and Development at NAIT
+
+## &#x270d; Blog & Writing
+
+Apart from coding and building websites, I am also a gamer. This github is primarily focused on testing various modifications applied to my favorite games!
+
+## 🔧 Tools
+![](https://img.shields.io/badge/Windows-OS-blue?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+
 
 <!--
 **ExtraRice-EXE/ExtraRice-EXE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

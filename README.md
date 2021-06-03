@@ -8,7 +8,7 @@ Apart from coding and building websites, I am also a gamer. This github is prima
 
 ## 🔧 Tools
 ![](https://img.shields.io/badge/Windows-OS-blue?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Visual-Studio-Code-Text-Editor-blue?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VSC-blue?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML5-Language-blue?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JavaScript-Code-blue?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
